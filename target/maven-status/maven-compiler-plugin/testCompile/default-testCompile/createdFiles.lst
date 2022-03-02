@@ -1,0 +1,4 @@
+app\pages\SpeakEnglishHome.class
+app\tests\SpeakEnglishTests.class
+automation\utilities\SeleniumUtils.class
+app\pages\SpeakEnglishLogin.class
