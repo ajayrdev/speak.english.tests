@@ -1,0 +1,8 @@
+2022-03-14 21:36:03.315 [main] INFO  app.tests.SpeakEnglishTests - Data has been loaded to run the tests
+2022-03-14 21:36:12.946 [main] INFO  app.tests.SpeakEnglishTests - Setup completed. This method runs for each test
+2022-03-14 21:36:12.985 [main] INFO  app.tests.SpeakEnglishTests - App url: https://flipkart.com has been launched
+2022-03-14 21:36:22.601 [main] INFO  app.tests.SpeakEnglishTests - closed login popup
+2022-03-14 21:36:22.879 [main] INFO  app.tests.SpeakEnglishTests - Scrolled to View ALl button
+2022-03-14 21:36:24.135 [main] INFO  app.tests.SpeakEnglishTests - Clicked on ViewAll button
+2022-03-14 21:36:39.659 [main] ERROR app.tests.SpeakEnglishTests - Caught an exception at verifyViewAllFK test org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of any elements located by By.xpath: //a[@title]_modified (tried for 15 second(s) with 500 milliseconds interval)
+2022-03-14 21:36:41.517 [main] INFO  app.tests.SpeakEnglishTests - Test completed. Browser closed

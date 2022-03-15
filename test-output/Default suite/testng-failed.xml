@@ -6,7 +6,7 @@
       <class name="app.tests.SpeakEnglishTests">
         <methods>
           <include name="loadData"/>
-          <include name="verifyInvalidUser"/>
+          <include name="verifyCosmocodeWebTable"/>
           <include name="tearDown"/>
           <include name="setup"/>
         </methods>

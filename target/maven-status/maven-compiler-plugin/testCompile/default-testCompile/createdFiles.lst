@@ -1,4 +1,11 @@
-app\pages\SpeakEnglishHome.class
 app\tests\SpeakEnglishTests.class
-automation\utilities\SeleniumUtils.class
+app\pages\AutomationBookStorePage.class
+app\pages\TechlistIcWebPage.class
+app\pages\GuruRegisterPage.class
+app\pages\CosmocodeWebTable.class
+app\pages\DorpDownPage.class
+app\pages\W3SchoolsWebTable.class
 app\pages\SpeakEnglishLogin.class
+automation\utilities\SeleniumUtils.class
+app\pages\FlipKartPage.class
+app\pages\SpeakEnglishHome.class
